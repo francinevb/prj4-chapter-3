@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+.container{
+	border-style: solid;
+	color: coral;
+}
+#green{
+	color: green;
+}
+.text{
+	background-color: blue;
+}
