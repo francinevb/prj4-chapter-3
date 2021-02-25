@@ -1,12 +1,25 @@
+* {margin: 0;}
 @charset "UTF-8";
 /* CSS Document */
 .container{
 	border-style: solid;
 	color: coral;
+	border-color: chartreuse;
+	padding: 10px 25px 10px 25px
 }
 #green{
 	color: green;
 }
 .text{
 	background-color: blue;
+	font-family: 'Ubuntu', sans-serif;
 }
+#img1{
+	width: 350px;
+	height: 350px;
+		
+}
+#h1water{
+	background-image: url("../images/joe.jpg")
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
